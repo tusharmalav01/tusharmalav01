@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tushar Malav</h1>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
-<!--
-**tusharmalav01/tusharmalav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I build full-stack web applications
+- 🛒 Currently working on an E-commerce MERN project
+- 🌱 Learning advanced backend & system design
+- 🎯 Goal: Become a strong product-focused engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- React, Vite
+- Node.js, Express
+- MongoDB
+- JWT Authentication
+- REST APIs
+
+---
+
+### 🚀 Projects
+- 🛒 **E-commerce App** – Auth, Cart, Orders, Admin
+- 🌐 **Portfolio Website** – Animated React UI
+- 📦 **REST APIs** – Secure backend services
+
+---
+
+### 🌐 Connect With Me
+- 🌍 Portfolio: https://tusharmalav.vercel.app
+- 💼 LinkedIn: (add link)
+- 📧 Email: (add email)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharmalav01&show_icons=true&theme=tokyonight)
